@@ -18,18 +18,6 @@
     <ClCompile Include="CS2Begin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="GradedActivity.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FinalExam.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pr15-1.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Pr15-2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="HuntingDog.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -44,12 +32,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="GradedActivity.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="FinalExam.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="HuntingDog.h">
       <Filter>Header Files</Filter>
     </ClInclude>

@@ -131,18 +131,12 @@
     <ClCompile Include="Creature.cpp" />
     <ClCompile Include="CS2Begin.cpp" />
     <ClCompile Include="Dog.cpp" />
-    <ClCompile Include="FinalExam.cpp" />
-    <ClCompile Include="GradedActivity.cpp" />
     <ClCompile Include="HuntingDog.cpp" />
-    <ClCompile Include="Pr15-1.cpp" />
-    <ClCompile Include="Pr15-2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Creature.h" />
     <ClInclude Include="Dog.h" />
-    <ClInclude Include="FinalExam.h" />
-    <ClInclude Include="GradedActivity.h" />
     <ClInclude Include="HuntingDog.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

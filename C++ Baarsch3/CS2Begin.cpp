@@ -4,10 +4,10 @@
 
 #include <iostream>
 #include <iomanip>
-#include "GradedActivity.h"
-#include "FinalExam.h"
 #include "Dog.h"
 #include "HuntingDog.h"
+#include "Creature.h"
+#include "Animal.h"
 using namespace std;
 
 class Vehicle {
@@ -78,6 +78,8 @@ int main()
 
     for (Dog* &d : dogs)
         d->doTrick();
+
+    // Creature Animal Dog HuntingDog
 
 
 }
